@@ -1,2 +1,2 @@
-# JobWale--responsice-live
-JobWale- responsice-live site
+# JobWale--responsive-live
+JobWale- responsive-live site
